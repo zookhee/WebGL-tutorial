@@ -4,18 +4,18 @@
 201620894 김연교
 
 ## Dice : 큐브 상에 texture mapping 을 이용한 주사위 만들기
-![html](/uploads/47f9e516fff7db777cf03039ef98f9bd/html.png)
+![html](https://user-images.githubusercontent.com/30920480/100296072-9dac1100-2fce-11eb-99b7-e6ccd0948cf1.png)
 
 gl-matrix를 사용해 큐브에 주사위를 image texture mapping 했다. <br>
 실제로 주사위가 굴려지는 animation을 추가해보고 싶었지만 외부 모듈을 사용해야한다고 해서 패스하고 단순 rotate만 넣었다.
 
 ## 기본 정보
 큐브 상에 dice 이미지를 image texture mapping 해서 실제 주사위와 같은 모양으로 보이게 구현했다.<br><br>
-![dice](/uploads/6a8e07634b1804cb3fec79b55dd0847f/dice.gif)
+![dice](https://user-images.githubusercontent.com/30920480/100296075-a13f9800-2fce-11eb-8568-96b86b848ea5.gif)
 (다음과 같은 gif를 cube에 image texture mapping 한다.)
 
 
-![dicecube](/uploads/a006962372e8aa3ea3571d7be0d7de2e/dicecube.png)<br>
+![dicecube](https://user-images.githubusercontent.com/30920480/100296144-ccc28280-2fce-11eb-967e-6c2522dc9adb.png)<br>
 (Cube에 Image texture mapping 한 결과물.)
 
 Canvas Size : 600 X 600
