@@ -49,6 +49,12 @@ https://docs.tizen.org/application/web/guides/w3c/supplement/webgl/
 
 
 ## 보너스 Earth : 구 상에 texture mapping 을 통한 지구 모형 만들기. <- 그냥 한번 해본것..
-이번학기 WebGL 수업에서 구를 표현하는 것을 배운적이 없기 때문에 구 상에 image texture mapping을 해봤다. 다만 external module을 사용해야하기 때문에 Final Project로는 시도하지 못하고 그냥 한번 해본것..
+
+![html2](https://user-images.githubusercontent.com/30920480/100296281-1a3eef80-2fcf-11eb-8908-b4b1ff8f5930.png)
+
+이번학기 WebGL 수업에서 구를 표현하는 것을 배운적이 없기 때문에 구 상에 image texture mapping을 해봤다. 
+
+다만 external module을 사용해야하기 때문에 Final Project로는 시도하지 못하고 그냥 한번 해본것..
+
 Earth 구현 레퍼런스 : https://codepen.io/ktmpower/pen/ZbGRpW
 
