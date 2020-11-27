@@ -29,20 +29,7 @@ randomly rotate the dice 버튼을 이용해 주사위를 새로 굴릴 수 있�
 
 +-translate 버튼들을 통해 dice의 translation 을 수행할 수있다.
 
-## 코드 구조
-따로 script.js 를 생성하지 않고 html 코드 안에 script 코드를 넣어주었다. https://git.ajou.ac.kr/zookhee/weblgl-tutorial/-/blob/master/1.Dice/index.html#L56
 
-순서는 glContext 생성 -> initShaders(); ->initBuffers() -> drawScene() -> initTexture() 이다.
-
-glContext 생성 https://git.ajou.ac.kr/zookhee/weblgl-tutorial/-/blob/master/1.Dice/index.html#L79
-
-initShaders(); https://git.ajou.ac.kr/zookhee/weblgl-tutorial/-/blob/master/1.Dice/index.html#L97
-
-initBuffers(); https://git.ajou.ac.kr/zookhee/weblgl-tutorial/-/blob/master/1.Dice/index.html#L149
-
-drawScene(); https://git.ajou.ac.kr/zookhee/weblgl-tutorial/-/blob/master/1.Dice/index.html#L195
-
-initTexture(); https://git.ajou.ac.kr/zookhee/weblgl-tutorial/-/blob/master/1.Dice/index.html#L140
 
 ## Reference
 https://docs.tizen.org/application/web/guides/w3c/supplement/webgl/
